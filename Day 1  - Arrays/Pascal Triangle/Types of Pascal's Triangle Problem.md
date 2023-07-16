@@ -14,17 +14,13 @@ In **Pascal’s triangle**, each number is the sum of the two numbers directly 
 
 
 #### Notes
-![[WhatsApp Image 2023-06-17 at 23.22.52.jpg]]
 
+![Image](./Image/WhatsApp%20Image%202023-06-17%20at%2023.22.52.jpg)
 
+![Image](./Image/WhatsApp%20Image%202023-06-17%20at%2023.22.53%201.jpg)
 
-![[WhatsApp Image 2023-06-17 at 23.22.53 1.jpg]]
+![Image](./Image/WhatsApp%20Image%202023-06-17%20at%2023.22.53.jpg)
 
+![Image](./Image/WhatsApp%20Image%202023-06-17%20at%2023.22.55.jpg)
 
-
-![[WhatsApp Image 2023-06-17 at 23.22.53.jpg]]
-
-![[WhatsApp Image 2023-06-17 at 23.22.55.jpg]]
-
-
-![[WhatsApp Image 2023-06-17 at 23.22.54.jpg]]
+![Image](./Image/WhatsApp%20Image%202023-06-17%20at%2023.22.54.jpg)
