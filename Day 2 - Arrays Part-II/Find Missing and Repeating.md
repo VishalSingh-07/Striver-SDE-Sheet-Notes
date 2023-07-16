@@ -96,7 +96,7 @@ public:
 
 Above code ❌ give time limit Exceeded due to time complexity O(n^2)
 
-![[WhatsApp Image 2023-07-11 at 17.03.43.jpg]]
+![Image](../Screenshots/WhatsApp%20Image%202023-07-11%20at%2017.03.43.jpg)
 
 
 
@@ -149,8 +149,7 @@ public:
 };
 ```
 
-
-![[WhatsApp Image 2023-07-11 at 17.03.42.jpg]]
+![Image](../Screenshots/WhatsApp%20Image%202023-07-11%20at%2017.03.42.jpg)
 
 
 
@@ -245,11 +244,9 @@ public:
 };
 ```
 
+![Image](../Screenshots/WhatsApp%20Image%202023-07-11%20at%2017.03.42%201.jpg)
 
-
-![[WhatsApp Image 2023-07-11 at 17.03.42 1.jpg]]
-
-![[WhatsApp Image 2023-07-11 at 17.03.43 1.jpg]]
+![Image](../Screenshots/WhatsApp%20Image%202023-07-11%20at%2017.03.43%201.jpg)
 
 
 **Important Link**

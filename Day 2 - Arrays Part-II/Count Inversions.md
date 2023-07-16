@@ -123,9 +123,7 @@ class Solution{
 
 Above code ❌ give time limit Exceeded due to high time complexity O(n^2)
 
-
-![[WhatsApp Image 2023-07-15 at 21.44.51.jpg]]
-
+![Image](../Screenshots/WhatsApp%20Image%202023-07-15%20at%2021.44.51.jpg)
 
 #### Optimized Approach
 
@@ -286,17 +284,14 @@ class Solution{
 
 };
 ```
+![Image](../Screenshots/WhatsApp%20Image%202023-07-15%20at%2021.44.49.jpg)
 
+![Image](../Screenshots/WhatsApp%20Image%202023-07-15%20at%2021.44.52.jpg)
 
-![[WhatsApp Image 2023-07-15 at 21.44.49.jpg]]
+![Image](../Screenshots/WhatsApp%20Image%202023-07-15%20at%2021.44.50.jpg)
 
+![Image](../Screenshots/WhatsApp%20Image%202023-07-15%20at%2021.44.51%201.jpg)
 
-![[WhatsApp Image 2023-07-15 at 21.44.52.jpg]]
-
-![[WhatsApp Image 2023-07-15 at 21.44.50.jpg]]
-
-
-![[WhatsApp Image 2023-07-15 at 21.44.51 1.jpg]]
 
 
 **Important Link**
